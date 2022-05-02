@@ -1,0 +1,17 @@
+name: Test Theme
+type: theme
+core_version_requirement: ^8.8.0 || ^9
+
+base_theme: stable
+
+libraries:
+  - theme-test/global-styling
+
+regions:
+  header: Header
+  featured: Featured
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer
+  dx8_hidden: Site Studio hidden region
