@@ -5,7 +5,7 @@ core_version_requirement: ^8.8.0 || ^9
 base_theme: bartik
 
 libraries:
-  - theme-test/global-styling
+  - themeTest/global-styling
 
 regions:
   header: Header
@@ -14,4 +14,3 @@ regions:
   sidebar_first: First sidebar
   sidebar_second: Second sidebar
   footer: Footer
-  dx8_hidden: Site Studio hidden region
