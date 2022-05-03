@@ -2,7 +2,7 @@ name: Test Theme
 type: theme
 core_version_requirement: ^8.8.0 || ^9
 
-base_theme: cohesion_theme
+base_theme: stark
 
 libraries:
   - theme-test/global-styling
